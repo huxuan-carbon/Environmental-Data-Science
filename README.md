@@ -1,7 +1,7 @@
-#Environmental-Data-Science
+# Environmental-Data-Science
 基于多源数据融合的跨领域碳核算与数据驱动优化学习记录
 
-##进度
+## 进度
 - 01-hello: 环境搭建与Hello World
 - 02-变量: 变量与基础数据类型
 - 03-字符串: 字符串/格式化/转义
